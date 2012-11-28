@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\bin\Debug\MathOperationKata.dll
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\bin\Debug\MathOperationKata.pdb
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\bin\Debug\nunit.framework.dll
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\bin\Debug\nunit.framework.xml
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\obj\Debug\MathOperationKata.dll
+D:\Visual Studio 2010\Projects\Test Driven\MathOperationKata\MathOperationKata\obj\Debug\MathOperationKata.pdb

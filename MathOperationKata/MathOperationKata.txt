@@ -1,0 +1,23 @@
+﻿
+@Author: Bayram Üçüncü
+@Web   : http://www.bayramucuncu.com
+
+MathOperations Kata
+
+TR: Bu katanın amacı, değişkenleri ve sabitleri belli olan matematiksel formülleri çözebilen bir uygulama geliştirmek.
+
+EN: The purpose of this kata is solving the math formulas that specified variable and constants of them.
+
+Örnekler / Examples
+-------------------------------------------------
+1 + 1      => constant + constant
+x + y      => variable + variable
+x + y -1   => variable + variable + constant
+(x+y) / 2  =>(variable + variable) / constant 
+(x*y)-(x/3)=>(variable + variable) - (variable/3)
+...
+..
+.
+
+İşlem Başarılı.
+Tekrar görüşmek dileğiyle.
